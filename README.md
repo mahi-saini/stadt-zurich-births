@@ -1,2 +1,0 @@
-# stadt-zurich-births
-
