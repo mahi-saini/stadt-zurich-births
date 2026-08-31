@@ -13,9 +13,9 @@ Python + Tableau Public project exploring birth data from my own city, Zürich.
 
 Demographic overview
 
-1. Total births per year 1993-2025
-2. Births by child sex per year 
-3. Swiss vs foreign-origin births over time
+1. Total births per year 1993-2025 [→](.../readme_analysis/analysis-1.md)
+2. Births by child sex per year [→](.../readme_analysis/analysis-2.md)
+3. Swiss vs foreign-origin births over time [→](.../readme_analysis/analysis-3.md)
 
 District/geographic
 
