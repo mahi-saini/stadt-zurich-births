@@ -1,6 +1,8 @@
-# Stadt Zürich Births (1993–2025)
+# Stadt Zürich Births 
 
-Python + Tableau Public project exploring birth data from my own city, Zürich.
+**What this is:** An end-to-end data analysis project on 33 years of birth statistics from my own city, Zürich
+
+**What I did:** cleaned a 66,000+ row open-government dataset with pandas, ran 10 exploratory analyses across time, district, maternal age, and origin, and built an interactive Tableau dashboard. 
 
 **Inspiration:** I wanted to apply my Python/pandas skills to a real, messy government dataset, and properly learn a data viz tool end-to-end. From cleaning raw data to publishing an interactive public dashboard. 
 
