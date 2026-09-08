@@ -1,4 +1,4 @@
-# Analysis 4: Total births by district over all years
+# Analysis 4: Total Births By District Over All Years
 
 [← Back to main README](../README.md)
 
