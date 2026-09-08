@@ -10,7 +10,7 @@ Grouped the cleaned dataset by `year` and `child_sex`, summing the `births` colu
 
 ## Visualization
 
-![Total births per year](../visualizations/analysis-2.png)
+![Births By Child Sex Per Year](../visualizations/analysis-2.png)
 
 ## Observations
 - Male and female birth counts track each other closely across the full 33-year period 

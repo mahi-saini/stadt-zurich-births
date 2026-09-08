@@ -11,7 +11,7 @@ Grouped the cleaned dataset by `year` and `mother_origin`, summing the `births` 
 
 ## Visualization
 
-![Total births per year](../visualizations/analysis-3.png)
+![Swiss vs Foreign-Origin Births Over Time](../visualizations/analysis-3.png)
 
 ## Observations
 -  Both groups grew over the period, but at very different rates: Swiss-origin births roughly grew from ~2,100 (1993) to a peak of ~3,600 (2021), while foreign-origin births grew more modestly, from ~1,300 (1993) to a peak of ~1,800 (2017)

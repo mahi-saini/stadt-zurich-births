@@ -10,7 +10,7 @@ Grouped the cleaned dataset by `district_code` and `district_name`, summed `birt
 
 ## Visualization
 
-![Total births per year](../visualizations/analysis-4.png)
+![Total Births By District Over All Years](../visualizations/analysis-4.png)
 
 ## Observations
 - Totals range from 96 to 11,074 across districts, roughly a 115x spread, reflecting how much residential population varies district to district 

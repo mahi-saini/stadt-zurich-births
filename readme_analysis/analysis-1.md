@@ -10,7 +10,7 @@ Grouped the cleaned dataset by `year` and summed the `births` column
 
 ## Visualization 
 
-![Total births per year](../visualizations/analysis-1.png)
+![Total Births Per Year](../visualizations/analysis-1.png)
 
 ## Observations
 - Births held roughly flat around 3,400–3,600/year through the 1990s 
