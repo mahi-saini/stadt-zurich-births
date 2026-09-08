@@ -15,9 +15,9 @@
 
 Demographic overview
 
-1. Total births per year 1993-2025 [→](.../readme_analysis/analysis-1.md)
-2. Births by child sex per year [→](.../readme_analysis/analysis-2.md)
-3. Swiss vs foreign-origin births over time [→](.../readme_analysis/analysis-3.md)
+1. Total births per year 1993-2025 [→](../readme_analysis/analysis-1.md)
+2. Births by child sex per year [→](../readme_analysis/analysis-2.md)
+3. Swiss vs foreign-origin births over time [→](../readme_analysis/analysis-3.md)
 
 District/geographic
 
