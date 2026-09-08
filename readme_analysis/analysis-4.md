@@ -14,7 +14,7 @@ Grouped the cleaned dataset by `district_code` and `district_name`, summed `birt
 
 ## Observations
 - Totals range from 96 to 11,074 across districts, roughly a 115x spread, reflecting how much residential population varies district to district 
-- The darkest (highest-total) district sits in the far west — consistent with Altstetten, one of the city's largest residential districts
+- The darkest (highest-total) district sits in the far west: consistent with Altstetten, one of the city's largest residential districts
 - The lightest cluster sits right in the map's center: the old town core (Rathaus, Lindenhof, City, Hochschulen), which is mostly commercial, historic, or university space rather than residential 
 - Peripheral districts generally shade darker than central ones, which tracks with where actual housing is concentrated in Zürich 
 
