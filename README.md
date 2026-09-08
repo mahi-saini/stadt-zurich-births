@@ -15,27 +15,25 @@
 
 Demographic overview
 
-1. Total births per year 1993-2025 [→](../readme_analysis/analysis-1.md)
-2. Births by child sex per year [→](../readme_analysis/analysis-2.md)
-3. Swiss vs foreign-origin births over time [→](../readme_analysis/analysis-3.md)
+1. Total births per year 1993-2025 [→](readme_analysis/analysis-1.md)
+2. Births by child sex per year [→](readme_analysis/analysis-2.md)
+3. Swiss vs foreign-origin births over time [→](readme_analysis/analysis-3.md)
 
 District/geographic
 
-4. Total births by district over all years 
-5. Births by district over time
-6. Year-on-year percentage change by district
+4. Total births by district over all years [→](readme_analysis/analysis-4.md)
+5. Births by district over time [→](readme_analysis/analysis-5.md)
+6. Year-on-year percentage change by district [→](readme_analysis/analysis-6.md)
 
 
 Maternal age
 
-7. Average maternal age per year 
-8. Distribution of births by age group per year 
+7. Average maternal age per year [→](readme_analysis/analysis-7.md)
+8. Distribution of births by age group per year [→](readme_analysis/analysis-8.md)
 
 
 Cross-dimensional
 
-9. Foreign-origin mothers by district 
-10. Maternal age by origin group over time 
+9. Foreign-origin mothers by district [→](readme_analysis/analysis-9.md)
+10. Maternal age by origin group over time [→](readme_analysis/analysis-10.md)
 
-
-## Highlights
