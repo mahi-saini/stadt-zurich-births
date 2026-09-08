@@ -1,4 +1,4 @@
-# Analysis 2: Births by child sex per year 
+# Analysis 2: Births By Child Sex Per Year 
 
 [← Back to main README](../README.md)
 
